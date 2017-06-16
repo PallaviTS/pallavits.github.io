@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "Man must explore, and this is exploration at its greatest"
+subtitle:   "Problems look mighty small from 150 miles up"
+date:       2014-09-23 12:00:00
+author:     "Start Bootstrap"
+header-img: "img/post-bg-06.jpg"
+---
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
